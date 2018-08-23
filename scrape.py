@@ -5,8 +5,7 @@ import random
 
 # INPUTS
 MAX_RESULTS_PER_PAGE = 120 # Set by Craigslist
-FILTER_BY_AVAILABILITY = True # Filter out apartments that are available now, or before Sept 1.
-FILTER_BY_ADDRESS = False # Filter out apartments that are at the wrong address. Now that we're restricting to Mission, we don't really have to do this.
+FILTER_BY_AVAILABILITY = True # Filter out apartments that are available now or before Sept 1.
 
 def create_months():
 	months_dict = {}
@@ -127,13 +126,14 @@ def search(url_base, params):
 
 # Get existing apartments' links (identifiers) so we don't duplicate apartments.
 existing_apartments = set()
-with open('apartments.txt', 'r') as file:
+with open('apartments.txt', 'w+') as file:
 	existing_apartments = set([line.split(',')[0] for line in file.readlines()])
 file.close()
 
 # Do new search.
 months_dict = create_months()
 sfc_url_base = 'http://sfbay.craigslist.org/search/sfc/apa?'
+# Neighborhoods: Mission, Potrero, Bernal.
 sfc_params = 'nh=3&nh=18&nh=25&availabilityMode=0&laundry=1&laundry=4&max_bedrooms=2&max_price=4200&min_bathrooms=1&min_bedrooms=1'
 search(sfc_url_base, sfc_params)
 
