@@ -73,13 +73,13 @@ def get_neighborhood(apt):
 	return str(0)
 
 # Returns true if availability is September or later.
-def filter_out_availability(availability):
+def filter_out_availability_by_month(availability):
 	if (availability is not None) and (availability != ""):
 		availability = availability.split(" ")
 		num_month = months_dict[availability[0]]
 		if num_month is None:
 			print(availability[0])
-		elif num_month < 9:
+		elif num_month < 10:
 			return False
 	return True
 
@@ -95,7 +95,7 @@ def parse_apartment(apt, existing_apartments, file):
 		address = get_address(html)
 		num_bathrooms = get_num_bathrooms(html)
 		availability = get_availability(html)
-		if filter_out_availability(availability):
+		if filter_out_availability_by_month(availability):
 			file.write(link + ', ' + title + ', ' + price + ', ' + num_bedrooms + ', ' + num_bathrooms + ', ' + availability + ', ' + sq_ft + ', ' + neighborhood + ',' + address + '\n')
 
 def get_next_page(apts, url_base, params):
@@ -122,6 +122,7 @@ def search(url_base, params):
 	with open('apartments.txt', 'a') as file:
 		for apt in apts: # for i in range(5)
 			parse_apartment(apt, existing_apartments, file)
+	file.close()
 
 
 # Get existing apartments' links (identifiers) so we don't duplicate apartments.
