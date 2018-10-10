@@ -1,20 +1,27 @@
-https://sfbay.craigslist.org/sfc/apa/d/mission-district-fully/6702266368.html, Mission District, fully furnished, newly renovated one bedroom flat, $4000, 1br, 1Ba, , 525ft2, mission district,
-https://sfbay.craigslist.org/sfc/apa/d/stunning-full-floor-flat-2br/6697113788.html, STUNNING FULL FLOOR FLAT 2BR/1BA PARKING/PATIO PRIME NORTH BERNAL, $3950, 2br, 1Ba, oct 1, 0, bernal heights,Peralta
-https://sfbay.craigslist.org/sfc/apa/d/potrero-hill-jr-one-bedroom/6701577953.html, Potrero Hill Jr One Bedroom, $3436, 1br, 1Ba, , 533ft2, potrero hill,1010 16th St
-https://sfbay.craigslist.org/sfc/apa/d/city-views-await-this-1/6701574199.html, City views await this 1 bedroom, $3910, 1br, 1Ba, , 728ft2, potrero hill,1010 16th St
-https://sfbay.craigslist.org/sfc/apa/d/800-sq-ft-one-bedroom-loft-in/6697155574.html, 800 Sq ft. ONE BEDROOM + LOFT in Landmark Building, Parking available, $3700, 1br, 1Ba, oct 1, 800ft2, mission district,95 McCoppin Street
-https://sfbay.craigslist.org/sfc/apa/d/showing-fridaypm-dogpatch/6701516771.html, Showing Friday 9/21 @7pm dogpatch loft! Minutes from Caltrain!, $4000, 2br, 2Ba, oct 1, 1230ft2, potrero hill,2011 3rd st at Mariposa
-https://sfbay.craigslist.org/sfc/apa/d/enjoy-potrero-hill-views-in/6701506248.html, Enjoy Potrero Hill Views in this One Bedroom, $3622, 1br, 1Ba, , 733ft2, potrero hill,1010 16th St
-https://sfbay.craigslist.org/sfc/apa/d/sunny-potrero-hill/6701299896.html, Sunny ☀️ Potrero Hill, $3500, 2br, 1Ba, oct 1, 1000ft2, potrero hill,Rhode Island Street at Southern Heights
-https://sfbay.craigslist.org/sfc/apa/d/bi-level-loft-with-private/6701170238.html, Bi-level loft with Private Patio, Outer Potrero Hill, $3350, 2br, 2Ba, , 1000ft2, potrero hill,1468 25th Street at Pennsylvania
-https://sfbay.craigslist.org/sfc/apa/d/mission-2bd-15ba-top-floor/6701098938.html, Mission 2bd/1.5ba Top Floor! ~ J.Wavro, $4150, 2br, 1.5Ba, , 0, mission district,Harrison Street at 24th street,
+https://sfbay.craigslist.org/sfc/apa/d/large-bi-level-loft-in-sunny/6710164369.html, Large Bi-Level Loft in Sunny Potrero Hill, $3650, 1br, 1.5Ba, oct 1, 1650ft2, potrero hill,26th Street at De Haro
+https://sfbay.craigslist.org/sfc/apa/d/top-floor-garage-parking-spa/6710115092.html, Top Floor, Garage Parking, Spa bath, w/ Rooftop Deck above Whole Foods, $3800, 1br, 1Ba, oct 1, 690ft2, potrero hill,Kansas St at Mariposa St
+https://sfbay.craigslist.org/sfc/apa/d/remodeled-2-bedroom-flat-noe/6709992537.html, Remodeled 2 Bedroom Flat - Noe/Mission Border ~ J.Wavro, $3995, 2br, 1Ba, , 0, mission district,20th Street at Guerrero
+https://sfbay.craigslist.org/sfc/apa/d/one-bedroom-with-den-garden/6685176652.html, One Bedroom with Den, garden facing with wash/ Dryer and private patio, $3800, 1br, 1Ba, oct 20, 916ft2, potrero hill,660 King Street
+https://sfbay.craigslist.org/sfc/apa/d/furnished-1br-apartment/6709913316.html, Furnished 1BR Apartment | Mission District | 3474 17th Street, $4200, 1br, 1Ba, , 0, mission district,3474 17th Street
+https://sfbay.craigslist.org/sfc/apa/d/studio-view-of-the-bay-you/6709903594.html, Studio w/ View Of The Bay You Ask? Move To Windsor at Dogpatch!, $3450, 1br, 1Ba, , 557ft2, potrero hill,2660 3rd Street at 23rd
+https://sfbay.craigslist.org/sfc/apa/d/open-sun-115pm-145pm-newly/6709887825.html, OPEN SUN  1:15PM-1:45PM Newly, fully remodeled Inner Mission, $2995, 1br, 1Ba, oct 7, 0, mission district,1212 Utah
+https://sfbay.craigslist.org/sfc/apa/d/brightspacious-one-bedroom/6707254112.html, Bright,Spacious One-Bedroom Bernal Flat, $2750, 1br, 1Ba, , 0, bernal heights,118 Highland ave.
+https://sfbay.craigslist.org/sfc/apa/d/1-br-apt-in-prime-north-slope/6699112313.html, 1-BR apt in prime North-slope location, Potrero Hill, $3400, 1br, 1Ba, nov 4, 900ft2, potrero hill,Connecticut Street at 18th Street
+https://sfbay.craigslist.org/sfc/apa/d/short-term-flat-in-historic/6706097612.html, short term flat in historic Mission District clean and sunny flat, $3750, 1br, 1Ba, , 550ft2, mission district,
+https://sfbay.craigslist.org/sfc/apa/d/mission-district-fully/6702266368.html, Mission District, fully furnished, newly renovated one bedroom flat, $3850, 1br, 1Ba, oct 1, 525ft2, mission district,
+https://sfbay.craigslist.org/sfc/apa/d/one-bedroom-with-washer-dryer/6704942654.html, One bedroom with Washer/ Dryer/ Parking, $3450, 1br, 1Ba, nov 10, 752ft2, potrero hill,
+https://sfbay.craigslist.org/sfc/apa/d/stunning-full-floor-flat-2br/6697113788.html, STUNNING FULL FLOOR FLAT 2BR/1BA PARKING/PATIO PRIME NORTH BERNAL, $3750, 2br, 1Ba, oct 5, 0, bernal heights,Peralta
+https://sfbay.craigslist.org/sfc/apa/d/smoke-free-community-abundant/6709170550.html, Smoke-Free Community, Abundant Phone, TV And High-Speed Data Ports, $3540, 1br, 1Ba, dec 3, 616ft2, mission district,1600 15th St
+https://sfbay.craigslist.org/sfc/apa/d/open-sun-12pm-1230pm-modern/6709039513.html, OPEN SUN 12PM-12:30PM w/ Modern Kitchen, W/D in Unit (1212 Utah #B), $2995, 1br, 1Ba, oct 7, 0, mission district,1212 Utah
 https://sfbay.craigslist.org/sfc/apa/d/newly-renovated-modern-1-bed/6690266137.html, Newly Renovated Modern 1 bed apt in the Mission, $3700, 1br, 1Ba, oct 1, 700ft2, mission district,Florida at 22nd
-https://sfbay.craigslist.org/sfc/apa/d/new-construction/6700469843.html, New Construction, $3650, 1br, 1Ba, oct 1, 0, mission district,15th at Guerrero
-https://sfbay.craigslist.org/sfc/apa/d/location-location-location/6700467474.html, Location, Location, Location! Near Caltrain, MUNI, 280 and 101, $3525, 1br, 1.5Ba, oct 30, 536ft2, potrero hill,680 Indiana Street
-https://sfbay.craigslist.org/sfc/apa/d/updated-2br-1ba-mission/6695252784.html, UPDATED 2BR/1BA Mission Dolores Walking Distance to Everywhere 10/1, $4195, 1br, 2Ba, oct 1, 1250ft2, mission district,64 Ramona Ave
-https://sfbay.craigslist.org/sfc/apa/d/beautiful-room-for-rent-just/6699836795.html, Beautiful room for rent just off Valencia St., $1900, 2br, 1Ba, oct 15, 1200ft2, mission district,Lexington at 19th st
-https://sfbay.craigslist.org/sfc/apa/d/mission-2bd-15ba-top-floor/6699384006.html, Mission 2bd/1.5ba Top Floor! ~ J.Wavro, $4150, 2br, 1.5Ba, , 0, mission district,Harrison Street at 24th street
-https://sfbay.craigslist.org/sfc/apa/d/beautiful-amazing-furnished-1/6699139143.html, BEAUTIFUL, AMAZING FURNISHED 1 BED 1 BATH APT UNIT, $3000, 1br, 1Ba, , 900ft2, potrero hill,177 Townsend St
-https://sfbay.craigslist.org/sfc/apa/d/1-br-apt-in-prime-north-slope/6699112313.html, 1-BR apt in prime North-slope location, Potrero Hill, $3600, 1br, 1Ba, nov 4, 900ft2, potrero hill,Connecticut Street at 18th Street
-https://sfbay.craigslist.org/sfc/apa/d/3300-one-bed-apart/6698194066.html, $3,300 -ONE BED, APART, $3300, 1br, 1Ba, , 970ft2, mission district,Mission at 19th
-https://sfbay.craigslist.org/sfc/apa/d/top-floor-huge-windows/6697084943.html, TOP Floor ~ Huge Windows ~ Kitchen Island | 1 bed 1 bath apartment, $3630, 1br, 1Ba, , 704ft2, potrero hill,360 Berry St.
+https://sfbay.craigslist.org/sfc/apa/d/modern-bernal-mission-2br/6704091592.html, Modern Bernal/Mission 2BR With Lots of Windows, $3495, 2br, 1Ba, oct 1, 0, bernal heights,leese st at Mission st
+https://sfbay.craigslist.org/sfc/apa/d/remodeled-2-bedroom-flat-noe/6708473287.html, Remodeled 2 Bedroom Flat - Noe/Mission Border ~ J.Wavro, $3995, 2br, 1Ba, , 0, mission district,20th Street at Guerrero
+https://sfbay.craigslist.org/sfc/apa/d/condo-at-the-potrero-all/6706109927.html, Condo at The Potrero, All Hardwood, Gym & Parking, $4200, 2br, 2Ba, nov 5, 0, potrero hill,451 Kansas
+https://sfbay.craigslist.org/sfc/apa/d/bright-spacious-one-bedroom/6707111453.html, Bright, Spacious One-bedroom Bernal Flat, $2750, 1br, 1Ba, oct 1, 0, bernal heights,
+https://sfbay.craigslist.org/sfc/apa/d/cozy-loft-with-skylight-lets/6706614238.html, Cozy Loft with skylight lets all the sunshine in!, $3525, 1br, 1.5Ba, oct 30, 536ft2, potrero hill,680 Indiana Street
+https://sfbay.craigslist.org/sfc/apa/d/beautiful-room-for-rent-just/6705759163.html, Beautiful room for rent just off Valencia St., $1900, 2br, 1Ba, oct 15, 0, mission district,Lexington at 19th
+https://sfbay.craigslist.org/sfc/apa/d/sunlit-condo-in-the-mission/6705749863.html, ☼ Sunlit Condo in the Mission w/ Washer/Dryer, Garage Parking w/ more, $3900, 1br, 1Ba, , 1000ft2, mission district,
+https://sfbay.craigslist.org/sfc/apa/d/1br-1ba-furnished-top-floor/6705602495.html, 1BR/1BA - FURNISHED - Top Floor Condo, $4200, 1br, 1Ba, oct 1, 0, potrero hill,
+https://sfbay.craigslist.org/sfc/apa/d/cozy-loft-with-skylight-lets/6705571421.html, Cozy Loft with skylight lets all the sunshine in! Available 10/30, $3525, 1br, 1.5Ba, oct 30, 536ft2, potrero hill,680 Indiana Street
+https://sfbay.craigslist.org/sfc/apa/d/cozy-loft-with-skylight-lets/6704692218.html, Cozy Loft with skylight lets all the sunshine in! Available 10/30, $3525, 1br, 1.5Ba, oct 30, 536ft2, potrero hill,680 Indiana Street
+https://sfbay.craigslist.org/sfc/apa/d/location-location-location/6703851095.html, Location, Location, Location! Near Caltrain, MUNI, 280 and 101, $3525, 1br, 1.5Ba, oct 30, 536ft2, potrero hill,680 Indiana Street
